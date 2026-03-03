@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "type": "比赛",
+    "date": "2026-03-01",
+    "duration_minutes": 120,
+    "cost": 50,
+    "score": "105:98",
+    "technique": "",
+    "note": "vs 火箭队",
+    "created_at": "2026-03-03T11:05:24.963060"
+  }
+]
